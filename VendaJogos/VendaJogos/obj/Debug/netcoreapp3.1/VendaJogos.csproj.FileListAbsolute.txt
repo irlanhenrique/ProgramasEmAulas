@@ -1,0 +1,13 @@
+B:\GoogleDrive\BrunoMantovani\ProgramasEmAulas\VendaJogos\VendaJogos\bin\Debug\netcoreapp3.1\VendaJogos.exe
+B:\GoogleDrive\BrunoMantovani\ProgramasEmAulas\VendaJogos\VendaJogos\bin\Debug\netcoreapp3.1\VendaJogos.deps.json
+B:\GoogleDrive\BrunoMantovani\ProgramasEmAulas\VendaJogos\VendaJogos\bin\Debug\netcoreapp3.1\VendaJogos.runtimeconfig.json
+B:\GoogleDrive\BrunoMantovani\ProgramasEmAulas\VendaJogos\VendaJogos\bin\Debug\netcoreapp3.1\VendaJogos.runtimeconfig.dev.json
+B:\GoogleDrive\BrunoMantovani\ProgramasEmAulas\VendaJogos\VendaJogos\bin\Debug\netcoreapp3.1\VendaJogos.dll
+B:\GoogleDrive\BrunoMantovani\ProgramasEmAulas\VendaJogos\VendaJogos\bin\Debug\netcoreapp3.1\VendaJogos.pdb
+B:\GoogleDrive\BrunoMantovani\ProgramasEmAulas\VendaJogos\VendaJogos\obj\Debug\netcoreapp3.1\VendaJogos.csproj.AssemblyReference.cache
+B:\GoogleDrive\BrunoMantovani\ProgramasEmAulas\VendaJogos\VendaJogos\obj\Debug\netcoreapp3.1\VendaJogos.AssemblyInfoInputs.cache
+B:\GoogleDrive\BrunoMantovani\ProgramasEmAulas\VendaJogos\VendaJogos\obj\Debug\netcoreapp3.1\VendaJogos.AssemblyInfo.cs
+B:\GoogleDrive\BrunoMantovani\ProgramasEmAulas\VendaJogos\VendaJogos\obj\Debug\netcoreapp3.1\VendaJogos.csproj.CoreCompileInputs.cache
+B:\GoogleDrive\BrunoMantovani\ProgramasEmAulas\VendaJogos\VendaJogos\obj\Debug\netcoreapp3.1\VendaJogos.dll
+B:\GoogleDrive\BrunoMantovani\ProgramasEmAulas\VendaJogos\VendaJogos\obj\Debug\netcoreapp3.1\VendaJogos.pdb
+B:\GoogleDrive\BrunoMantovani\ProgramasEmAulas\VendaJogos\VendaJogos\obj\Debug\netcoreapp3.1\VendaJogos.genruntimeconfig.cache
