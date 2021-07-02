@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\GoogleDrive\\BrunoMantovani\\ProgramasEmAulas\\VendaJogos\\VendaJogos\\VendaJogos.csproj",
+      "projectUniqueName": "B:\\GoogleDrive\\BrunoMontovani\\ProgramasEmAulas\\VendaJogos\\VendaJogos\\VendaJogos.csproj",
       "projectName": "VendaJogos",
-      "projectPath": "B:\\GoogleDrive\\BrunoMantovani\\ProgramasEmAulas\\VendaJogos\\VendaJogos\\VendaJogos.csproj",
+      "projectPath": "B:\\GoogleDrive\\BrunoMontovani\\ProgramasEmAulas\\VendaJogos\\VendaJogos\\VendaJogos.csproj",
       "packagesPath": "C:\\Users\\ihenrique\\.nuget\\packages\\",
-      "outputPath": "B:\\GoogleDrive\\BrunoMantovani\\ProgramasEmAulas\\VendaJogos\\VendaJogos\\obj\\",
+      "outputPath": "B:\\GoogleDrive\\BrunoMontovani\\ProgramasEmAulas\\VendaJogos\\VendaJogos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
